@@ -4,7 +4,7 @@ In the image below, compare the DP "The" with the DPs "Their" and "Bob's":
 
 ![tree](Images/tree4.jpg)
 
-Here is an example using the NP-structure to nest multiple possessors, below which is the DP equivalent:
+To list multiple possessors, the NP-structure is on the left while the DP-structure is on the right. Note that in the DP-structure, even though "Jack" is a proper noun, the possessor "Jack's" is a determiner.
 
 ![NP-structure](Images/tree5.png)
 ![DP-structure](Images/tree6.png)
