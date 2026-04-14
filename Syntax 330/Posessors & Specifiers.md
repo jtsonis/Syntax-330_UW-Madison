@@ -5,3 +5,6 @@ In the image below, compare the DP "The" with the DPs "Their" and "Bob's":
 ![tree](Images/tree4.jpg)
 
 Here is an example using the NP-structure to nest multiple possessors, below which is the DP equivalent:
+
+![NP-structure](Images/tree5.png)
+![DP-structure](Images/tree6.png)
