@@ -9,4 +9,4 @@ Consider the sentences "He is likely to dine." and "He is ready to dine." For th
 
 For the latter sentence, the adjective `ready' gives a θ-role to the object and subject, so no movement of "He" is required. Meanwhile, the spec of TP in the CP "to dine" is empty, so since nothing else in the CP is receiving the θ-role from "to dine," we add PRO to take the subject role.
 
-![two trees](Images\tree8.png)
+<img src="Images/tree8.png" alt="trees" width="50%">
