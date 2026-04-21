@@ -5,6 +5,7 @@ Uppercase "PRO" and lowercase "pro" both serve the same syntactic role: represen
 
 English does use PRO. PRO is the phonologically empty pronoun that serves as the subject of an <ins>infinite</ins> clause. PRO is a kind **trace**. Not all infinite complementizer phrases have PRO (which would be very convenient), and one can deduce this by counting the θ-roles.
 
-Consider the sentences "He is likely to dine." and "He is ready to dine." For the first sentence, the adjective `likely' only gives a theta-role to one argument in the object (after it) and not the subject (before it). This means that in order for "He," which is an argument, to get a theta-role, it has to have gotten it from somewhere else. Therefore we say it got the theta-role from the verb "to dine," meaning it used to be there and gets a trace.  
+Consider the sentences "He is likely to dine." and "He is ready to dine." For the first sentence, the adjective `likely' only gives a theta-role to one argument in the object (after it) and not the subject (before it). This means that in order for "He," which is an argument, to get a θ-role, it has to have gotten it from somewhere else. Therefore we say it got the θ-role from the verb "to dine," meaning it used to be in the TP by it. We put a trace in the spec of TP.  
 
-For the latter sentence, the adjective `ready' gives a theta-role to the object and subject, so no movement of "He" is required. Meanwhile, the spec of TP in the CP "to dine" is empty, so since nothing else in the CP is receiving the theta-role from "to dine," we add PRO to take the subject role.
+For the latter sentence, the adjective `ready' gives a θ-role to the object and subject, so no movement of "He" is required. Meanwhile, the spec of TP in the CP "to dine" is empty, so since nothing else in the CP is receiving the θ-role from "to dine," we add PRO to take the subject role.
+
