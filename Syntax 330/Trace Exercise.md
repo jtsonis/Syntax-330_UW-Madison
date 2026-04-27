@@ -3,7 +3,7 @@ My professor posted a syntax tree and said, "It includes every type of trace in 
 * There is a trace next to "investigation." **It is an investigation of what?**
 * The verb "misled" demonstrates passive voice. **Why does passive voice need a trace?** In this sentence, **who was misled?**
 * In the leftmost VP, **what decided that the detectives...?**
-* The leftmost Asp' has a trace where a verb used to be. **Where did that verb go?**
+* The leftmost Asp' has a trace where a verb used to be. **Where did that verb go?** [It originally went to T']
 
 <img src="Images/treeimagebig.png" alt="tree" width="100%">
 
