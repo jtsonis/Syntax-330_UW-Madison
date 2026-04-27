@@ -1,0 +1,1 @@
+It includes every type of trace in nearly all contexts introduced throughout the semester. It might be a small exercise to use your own ways to mark out which trace is for which moved constituent. Color-coding, indexing, whatever.
